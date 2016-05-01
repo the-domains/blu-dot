@@ -1,0 +1,28 @@
+name: Blu Dot
+favicon: null
+layout_spectrum: 0.342431248864159
+typography_spectrum: 0.0034117603208869696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.44507659203372896
+  lightness: 0.5834567765705287
+  saturation: 0.7316685002297163
+  rhythmicContrast: 0.9711235968861729
+purpose: []
